@@ -47,11 +47,11 @@
   }
 }
 .img{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   height: 200px;
 }
 .more{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   height: 50%;
   background-color: #4caf50;
 }
